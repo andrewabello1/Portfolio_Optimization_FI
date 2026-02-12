@@ -1,4 +1,4 @@
-# Portfolio Optimization & Efficient Frontier (Python)
+# Portfolio Optimization & Efficient Frontier
 
 This project applies **Modern Portfolio Theory (MPT)** to build and optimize a stock portfolio using Python.  
 The main objective is to **maximize the Sharpe Ratio** and visualize the **Efficient Frontier**.
