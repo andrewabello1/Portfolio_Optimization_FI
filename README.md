@@ -26,16 +26,34 @@ The main objective is to **maximize the Sharpe Ratio** and visualize the **Effic
 - Sharpe Ratio  
 - Diversification  
 
-Sharpe Ratio formula:
+## 📐 Sharpe Ratio Formula
 
-\[
-Sharpe = \frac{R_p - R_f}{\sigma_p}
-\]
+Sharpe Ratio measures how much return you receive per unit of risk.
+
+### Formula
+
+Sharpe Ratio = (Portfolio Return − Risk-Free Rate) / Portfolio Volatility
+
+Or written mathematically:
+
+Sharpe = (Rₚ − R_f) / σₚ
 
 Where:
-- \( R_p \) = Portfolio return  
-- \( R_f \) = Risk-free rate  
-- \( \sigma_p \) = Portfolio volatility  
+
+- **Rₚ** = Portfolio return  
+- **R_f** = Risk-free rate  
+- **σₚ** = Portfolio volatility (standard deviation)  
+
+---
+
+A higher Sharpe Ratio means:
+
+- Better risk-adjusted performance  
+- More return per unit of risk  
+
+A lower Sharpe Ratio means:
+
+- Less efficient use of risk 
 
 ---
 
