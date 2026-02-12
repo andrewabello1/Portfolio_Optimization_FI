@@ -26,7 +26,7 @@ The main objective is to **maximize the Sharpe Ratio** and visualize the **Effic
 - Sharpe Ratio  
 - Diversification  
 
-## 📐 Sharpe Ratio Formula
+## Sharpe Ratio Formula
 
 Sharpe Ratio measures how much return you receive per unit of risk.
 
